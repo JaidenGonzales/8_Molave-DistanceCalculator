@@ -7,8 +7,8 @@ y2 = float(input("Enter y2 Value: "))
 
 
 #This is to calculate the distance between the 2 coordinates.
-dis = math.sqrt(pow(x2 - x1,2) + pow(y2 - y1,2))
-print(dis)
+distance = math.sqrt(pow(x2 - x1,2) + pow(y2 - y1,2))
+print(distance)
 
 
 
