@@ -15,11 +15,13 @@ two coordinates by using a mathematical formula
 The user needs to input the X and Y so the code can get the coordinates and solve the distance.
 
 ## Sample Output
+```markdown
 Enter x1 Value: 12
 Enter y1 Value: -14
 Enter x2 Value: -19
 Enter y2 Value: 12
 40.45985664828782
+```
 
 ## Author
 Name: Jaiden Meir B. Gonzales
